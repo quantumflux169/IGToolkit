@@ -1,3 +1,5 @@
 This is our attempt at a information gathering toolkit, trying to make a 
 modular system for pentesters to find information quickely and speed up 
 the Process.
+
+The libraries are being used from theHarvester and metagoofil.
