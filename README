@@ -3,3 +3,5 @@ modular system for pentesters to find information quickely and speed up
 the Process.
 
 The libraries are being used from theHarvester and metagoofil.
+
+Program will be developed in python2.7 due to the fact that many of the libraries that i will be using is for python2.7
